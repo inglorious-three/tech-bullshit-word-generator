@@ -1,6 +1,6 @@
 {
   "name": "tech-bullshit-word-generator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Usefull library to create tech bullshit phrases.",
   "main": "index.js",
   "scripts": {
