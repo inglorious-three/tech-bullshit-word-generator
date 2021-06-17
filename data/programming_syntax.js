@@ -1,0 +1,18 @@
+module.exports = [
+   'Java',
+   'Kotlin',
+   'Rust',
+   'Go',
+   'Dart',
+   'C#',
+   'C',
+   'C+',
+   'C++',
+   'JavaScript',
+   'TypeScript',
+   'Vue.js',
+   'Angular',
+   'React',
+   'JSON',
+   'XML',
+];
