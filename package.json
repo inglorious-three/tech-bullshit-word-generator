@@ -1,0 +1,19 @@
+{
+  "name": "tech-bullshit-word-generator",
+  "version": "1.0.0",
+  "description": "Usefull library to create tech bullshit phrases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inglorious-three/tech-bullshit-word-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inglorious-three/tech-bullshit-word-generator/issues"
+  },
+  "homepage": "https://github.com/inglorious-three/tech-bullshit-word-generator#readme"
+}
